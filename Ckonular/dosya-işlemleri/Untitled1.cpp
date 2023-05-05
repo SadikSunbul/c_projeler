@@ -91,6 +91,7 @@ void okuma()
     fclose(dosya);
     printf("----------------------");
 }
+
 void dosyayasayiekleme(int sayi[10])
 {
 	FILE *dosya=fopen("testsayi.txt","a");

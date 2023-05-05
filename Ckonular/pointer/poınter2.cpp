@@ -23,7 +23,7 @@ printf("%d\n",*ip);
 	printf("%p\n",ip);
 printf("%d\n",*ip);
 	*/
-/*
+
 char *cp1="ilk karakter";
 char *cp2,*cp3;
 char cdizi[30];
@@ -43,9 +43,9 @@ free(cp3);
 	...
 	iþlemler
 	...
-	
-	p=(int *)realloc(p,33*sizeof(int)); //yenýden boyutlandýrdýk
 	*/
+	p=(int *)realloc(p,33*sizeof(int)); //yenýden boyutlandýrdýk
+	
 	
 	char *dizi[5];
 	int id;

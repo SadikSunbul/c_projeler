@@ -3,11 +3,13 @@
 //Pointerlar
 
 int main()
-{/*
+{
+	/*
 	int x=5;
 	int *ptr=&x;
 	int *ptr1;
 	ptr1=&x; //buraya x in adresýný atadýk
+	
 	
 	printf("x:%d\n",x);
 	printf("*ptr:%d\n",*ptr);
@@ -67,7 +69,7 @@ int main()
 	
 	int i=3;
 	printf("%d.isim=%s\n",i+1,*(cph+i));
-	printf("%d.isim=%s\n",i+1,cph[i]);  //ayni iþlemleri aparlar
+	printf("%d.isim=%s\n",i+1,cph[i]);  //ayni iþlemleri yaparlar
 	*/
 	//iþaretçi adresi taþýyan iþaretçiler **ip --> *ip niniþaretini taþir --> *ip de --> a nýn adresýný taþýr
 	/*
