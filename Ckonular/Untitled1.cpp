@@ -62,7 +62,7 @@ struct ogranci ogrenciler[]={{"Sadýk","Sünbül",3.9},{"Ahmet","Hamdi",4.0}};
 		scanf("%s",&ogrenciler1[i].ortalama);
 		
 	}
-	
+	 
 	for	(i=0;i<3;i++){
 		printf("%d.ogrencýnýn adý-soyadý %s-%s ortalamasý:%d\n",i+1,ogrenciler1[i].isim,ogrenciler1[i].soyisim,ogrenciler1[i].ortalama);
 		
